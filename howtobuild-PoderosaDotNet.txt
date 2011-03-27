@@ -1,0 +1,59 @@
+1) Pull down all files in PoderosaDotNet folder and Poderosa-4.3.1b-src.zip
+2) Extract zip file
+3) Move PoderosaDotNet folder to Poderosa-4.3.1b subdirectory.  I should look similar to this directory structure
+
+Poderosa-4.3.1b
+ |-Core
+ |-Executable
+ |-Granados
+ |-Macro
+ |-Misc
+ |---CygTerm
+ |---Macro
+ |-Monolithic
+ |---Core
+ |---Executable
+ |---Macro
+ |---Plugin
+ |---PortForwardingCommand
+ |---Protocols
+ |---SerialPort
+ |---TerminalEmulator
+ |---TerminalSession
+ |---TestAndDebug
+ |---UI
+ |---Usability
+ |---XZModem
+ |-MonolithicLibrary
+ |-Plugin
+ |-PoderosaDotNet
+ |---Core
+ |---Granados
+ |---Library
+ |---Macro
+ |---Plugin
+ |---PoderosadotnetTester
+ |---PortForwarding
+ |---PortForwardingCommand
+ |---Protocols
+ |---SerialPort
+ |---TerminalEmulator
+ |---TerminalSession
+ |---UI
+ |---Usability
+ |---XZModem
+ |-PortForwarding
+ |-PortForwardingCommand
+ |-Protocols
+ |-SerialPort
+ |-TerminalEmulator
+ |-TerminalSession
+ |-TestAndDebug
+ |-UI
+ |-Usability
+ |-XZModem
+
+
+4) The solution is located within the PoderosaDotNet folder.  Named PoderosaDotNet.sln 
+
+****PoderosadotnetTester is not needed for anything otherthan an aid for debugging and may be removed.******8

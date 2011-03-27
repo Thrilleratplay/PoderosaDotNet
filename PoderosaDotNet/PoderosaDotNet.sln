@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoderosaDotNet", "PoderosaDotNet.csproj", "{2B477938-70C1-4CE9-BF83-7D15B7E2EE2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoderosadotTester", "PoderosadotnetTester\PoderosadotTester.csproj", "{668F4F03-ED87-4616-B25B-E4863D5946BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B477938-70C1-4CE9-BF83-7D15B7E2EE2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B477938-70C1-4CE9-BF83-7D15B7E2EE2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B477938-70C1-4CE9-BF83-7D15B7E2EE2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B477938-70C1-4CE9-BF83-7D15B7E2EE2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{668F4F03-ED87-4616-B25B-E4863D5946BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{668F4F03-ED87-4616-B25B-E4863D5946BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{668F4F03-ED87-4616-B25B-E4863D5946BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{668F4F03-ED87-4616-B25B-E4863D5946BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
